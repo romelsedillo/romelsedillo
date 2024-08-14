@@ -3,9 +3,10 @@
 </div>
 
 ###
-
+<div align="center">
 <h1 align="center">Hi there, I'm Romel 👋.</h1>
 <h2 align="center">I'm a passionate web and mobile app developer with a strong focus on building modern, responsive, and user-friendly applications. With a background in Information Technology, I have honed my skills in a range of front-end and back-end technologies.</h2>
+  </div>
 ###
 
 <div align="left">
