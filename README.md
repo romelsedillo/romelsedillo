@@ -15,7 +15,7 @@ I'm a passionate web and mobile app developer with a strong focus on building mo
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [romelsedillo@gmail.com](mailto:romelsedillo@gmail.com)
 * 🚀  I'm currently working on [crud-app](https://crud-app-five-lilac.vercel.app)
-* 🧠  I'm learning Next.js and Zustand and Appwrite
+* 🧠  I'm learning Next.js Zustand, Appwrite and Typescript.
 
 <a href="https://www.github.com/romelsedillo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/romelsedillo?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
